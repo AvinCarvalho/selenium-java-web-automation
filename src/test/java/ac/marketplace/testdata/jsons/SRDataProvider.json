@@ -1,0 +1,19 @@
+{
+
+    "RequestTitle": "Registered Nurse",
+    "Role": "Registered Nurse",
+    "Specialty": "ALF",
+    "RequestType": "Permanent",
+    "RequestDescription": "Registered nurse, provide and coordinate patient care, educate patients and the public about various health conditions, and provide advice and emotional support to patients and their families",
+    "Facility": "Guerilla Mail Facility",
+    "Department": "ENT",
+    "StartDate": "15/02/2024",
+    "NoOfPositions": "4",
+    "HiringManager": "Porsche Winger",
+    "BillRate": "774",
+    "Shift": "Day",
+    "ShiftsPerWeek": "3",
+    "HoursPerShift": "8",
+    "ShiftTimings": "7AM to 3PM",
+    "TimesheetApprovers": "Porsche Winger"
+}
